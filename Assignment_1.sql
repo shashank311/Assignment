@@ -19,7 +19,8 @@ INSERT INTO Employees VALUES
 (6, 'Baljeet', 'Finance', 45000),
 (7, 'Chandni', 'Admin', 22000),
 (8, 'Dhanveer', 'IT', 41000),
-(9, 'Eric', 'Security', 55000);
+(9, 'Eric', 'Security', 55000),
+(10, 'Fawad', 'Support', 27000);
 
 SELECT * FROM Employees;
 
