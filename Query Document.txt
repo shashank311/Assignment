@@ -20,7 +20,7 @@ INSERT INTO Employees VALUES
 (7, 'Chandni', 'Admin', 22000),
 (8, 'Dhanveer', 'IT', 41000),
 (9, 'Eric', 'Security', 55000),
-(10, 'Fawad', ;Support', 27000);
+(10, 'Fawad', 'Support', 27000);
 
 SELECT * FROM Employees;
 
@@ -78,3 +78,4 @@ WHERE ProjName LIKE '%Pipeline%';
 SELECT * FROM Projects
 
 WHERE ProjName like 'E%';
+
